@@ -1,4 +1,5 @@
 #summary 一些有关Google Code的使用提示
+#labels Featured
 
 如果使用时有问题，可以发在下面的Comments里~
 
