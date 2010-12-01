@@ -1,7 +1,7 @@
 #summary Rating&Risk系统
 #labels Featured
 
-关于Rating&Risk系统的介绍请参考[http://code.google.com/p/bravura/wiki/Rules#2、快速完成任务 团队规则]
+关于Rating&Risk系统的介绍请参考[http://code.google.com/p/bravura/wiki/Rules#2、快速完成任务 团队规则].请每一个对页面中的数据进行操作的人员在comment中留下相关操作的记录："比如X在Y任务上提前完成了"；"Z迟到了"等。
 
 
 = Rating&Risk =
