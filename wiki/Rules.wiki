@@ -30,12 +30,19 @@
 Rating = Rating-2^Risk;
 Risk = Risk+1;
 }}}
- * *如果执行者用了不到一半的时间，即在(start_time+end_time)/2的时间之前完成任务，则Rating增加1，Risk减少1，即：*
+ * *如果执行者用了不到一半的时间，即在(start_time+end_time)/2的时间之前完成任务，则Rating增加1，Risk减少1。若Risk已经为0，那么Rating增加2，即：*
+{{{
+if (Risk == 0)
+  Rating = Rating+2;
+else{
+  Rating = Rating+1;
+  Risk = Risk-1;
+}
+}}}
+ * *如果执行者即没有很快完成任务，也没有超过截止时间还没完成任务，那么Rating加1，Risk值不变，即：*
 {{{
 Rating = Rating+1;
-Risk = Risk-1;
 }}}
- * *如果执行者即没有很快完成任务，也没有超过截止时间还没完成任务，那么Rating和Risk值不变。*
  * *任务的布置者必须要在(start_time+end_time)/2，即大致一半的时间提醒任务的执行者完成任务（如果没有完成的话）。否则，如果任务的执行者没有完成任务，布置者受到同样的任务没有完成的处罚*
  * *任务的完成时间按照任务布置者的回复确认为准，因此请保证布置者知道你已经完成任务.该次任务你的Rating&Risk将由该任务布置者维护*
  * *如果某成员的Rating值小于-2，则该成员被无条件开除出团队。*
