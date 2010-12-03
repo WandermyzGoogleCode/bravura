@@ -1,16 +1,25 @@
 #summary 刘之方的个人主页
-#sidebar toc
+#labels Type-Person
+
+<wiki:toc max_depth="4" />
 
 = 刘之方 =
 
 == 正在执行的任务 ==
 
-Add your content here.
-
+ * From 刘之方
+  * 完成Contact Manager。*Deadline：2010/12/04 11:59 a.m.* 该任务目前处于关键路径上，需尽快完成。
+  * 完成后视情况参与其他任务（如GUI）。
 
 == 布置的任务 ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ * 刘之方
+  * 完成Contact Manager。*Deadline：2010/12/04 11:59 a.m.* 该任务目前处于关键路径上，需尽快完成。
+  * 完成后刘之方视情况参与其他任务（如GUI）。
+ * 刘洋
+  * 根据新的Contact Manager重写相关调用代码，并对GUI进行修改。*Deadline：2010/12/05 11:59 a.m.*
+  * 修正更新时threshold的bug。 *Deadline: 2010/12/06 11:59 a.m.*
+ * 李宇骞
+  * 实现后台更新控制程序。*Deadline：2010/12/06 11:59 a.m.*
+ * For All
+  * 考虑march2010 wiki的issues中问题的解决办法。
