@@ -1,14 +1,14 @@
 #labels Type-Person
 #李照楠的个人主页，包含有其目前布置的任务、正在执行的任务
 
-= Introduction =
+= 李照楠 =
 
-Add your content here.
+<wiki:toc max_depth="3" />
+
+== 布置的任务 ==
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== 正在执行的任务 ==
+=== from 李宇骞 ===
+ * 改进网页前端的工作计划 Deadline 12-3 23:59:59
+ * 解决网页前端目前存在的问题：验证码，“标签”改成“口令”，增加多样的分隔符解析 Deadline:12-5 23:59:59
