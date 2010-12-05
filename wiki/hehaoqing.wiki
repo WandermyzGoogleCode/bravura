@@ -1,4 +1,5 @@
 #summary 何昊青的个人主页，包含有其目前布置的任务、正在执行的任务
+#labels Type-Person
 
 = 何昊青 =
 
