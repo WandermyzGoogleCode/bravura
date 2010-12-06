@@ -1,6 +1,8 @@
 #summary 关于wiki, gmail和google calendar的技术培训
 #labels Type-MeetingNotes
 
+<wiki:toc max_depth="2" />
+
 = Wiki =
 == 个人主页的建立 ==
 == RR系统的维护 ==
