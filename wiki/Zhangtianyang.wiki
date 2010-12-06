@@ -1,14 +1,15 @@
-#summary 张天扬的个人主页
+#summary 张天扬的个人主页包含有其目前布置的任务、正在执行的任务
 #labels Type-Person
 
-= Introduction =
+= 张天扬 =
 
+<wiki:toc max_depth="3" />
 
+= 布置的任务 =
+ * 暂无
 
+= 正在执行的任务 =
+ * 暂无
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Wander's Note =
+ * 暂无
