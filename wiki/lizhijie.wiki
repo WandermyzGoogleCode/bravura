@@ -5,9 +5,6 @@
  * 暂无
 
 = 正在执行的任务 =
- * Android RC
-  # 根据新的Contact Manager重写相关调用代码，并对GUI进行修改。Deadline：2010/12/05 11:59 a.m.
-  # 修正更新时threshold的bug。 Deadline: 2010/12/06 11:59 a.m.
-
+ *目前无任务
 = Wander's Note =
  * 暂无
