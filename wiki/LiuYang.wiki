@@ -14,3 +14,11 @@
 
 = Wander's Note =
  * 暂无
+
+{{{
+int main()
+{
+   return 0;
+}
+
+}}}
