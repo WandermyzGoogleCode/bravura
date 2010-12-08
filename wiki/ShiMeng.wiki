@@ -1,4 +1,5 @@
 #summary 施萌的个人主页，包含有其目前布置的任务、正在执行的任务、笔记
+#labels Type-Person
 
 
 <wiki:toc max_depth="3" />
