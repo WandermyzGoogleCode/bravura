@@ -1,0 +1,24 @@
+#summary 刘洋的个人主页，包括布置的任务、正在执行的任务、笔记
+#labels Type-Person
+
+<wiki:toc max_depth="1"/>
+
+= 布置的任务 =
+== 二级标题 ==
+ * 暂无
+
+= 正在执行的任务 =
+ * Android RC
+  # 根据新的Contact Manager重写相关调用代码，并对GUI进行修改。Deadline：2010/12/05 11:59 a.m.
+  # 修正更新时threshold的bug。 Deadline: 2010/12/06 11:59 a.m.
+
+= Wander's Note =
+ * 暂无
+
+{{{
+int main()
+{
+   return 0;
+}
+
+}}}
