@@ -1,5 +1,6 @@
 #summary 李志杰的个人主页
-wiki:toc max_depth="1"/>
+#labels Type-Person
+<wiki:toc max_depth="1"/>
 
 
 
