@@ -1,5 +1,5 @@
 #summary 4月11日测试脚本
-#labels Type-Agenda
+#labels Type-Note
 
  * 推广途径及相应详细任务：
    # 海报：
